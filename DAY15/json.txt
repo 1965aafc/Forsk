@@ -1,0 +1,8 @@
+json--- to get and post data 
+
+
+all most every data is in the json format 
+
+
+
+import request--- to do the get post and the api
