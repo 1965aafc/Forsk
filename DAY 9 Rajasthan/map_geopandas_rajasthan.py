@@ -13,7 +13,7 @@ Created on Tue Jan 15 11:20:23 2019
 
 """
 
-#source;-https://towardsdatascience.com/lets-make-a-map-using-geopandas-pandas-and-matplotlib-to-make-a-chloropleth-map-dddc31c1983d
+
 #importing libraries
 
 import pandas as pd
