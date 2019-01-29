@@ -20,10 +20,8 @@ import matplotlib.pyplot as plt
 import os
 os.environ["PROJ_LIB"]="C:\\Users\\ashwa\\Anaconda3\\Library\\share"
 from mpl_toolkits.basemap import Basemap
-
-#plotting data on map
 import geopandas as gpd
-import shapefile as shp
+
 
 
 #reading the csv data and storing it in a variable
@@ -35,7 +33,6 @@ csv=pd.read_csv("F:\\forsk\\Day10\\latlong_raj.csv")
 lat=csv['LAT'].values
 lon=csv['LONG'].values
 population = city['POPULATION'].values
-area = city['AREA_SQ_KM'].values
 dist=csv['DIST'].values
 
 
