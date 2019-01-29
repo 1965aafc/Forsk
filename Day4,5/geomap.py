@@ -5,7 +5,7 @@ Created on Thu Jan 10 15:53:39 2019
 @author: ashwa
 """
 
-#source:-https://towardsdatascience.com/mapping-geograph-data-in-python-610a963d2d7f
+
 #importing libraries
 import numpy as np
 import pandas as pd
