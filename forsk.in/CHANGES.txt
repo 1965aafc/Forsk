@@ -1,0 +1,48 @@
+								Changes
+
+
+INDEX.php-------------- A whole new format, complete changed page.
+
+about.php-------------- A whole new foramt, complete changed page.
+
+leadership.php--------- added( Meet leaders who have innovated business with AI stratigies for more than 15 years. Together we've solved mission-critical, scientific problems across industries.)
+
+advisory.php----------- Database has been removed, a complete static page.
+
+career.php------------- No change	
+
+contact.php------------ Heading to-  Let's talk
+				     New sub content 
+
+header.php------------- logo
+			dropdown list
+			link to blog	
+			removed link to forsklabs
+			
+
+footer.php------------- list contents
+			copyright
+			e-mail
+			address change 
+
+			
+
+								External Images
+
+
+
+INDEX.php--------------about.jpg, about_extra.jpg
+about.php--------------about.jpg, about_extra.jpg
+
+leadership.php--------- 24_home_company_team_02.jpg
+
+advisory.php-----------no image change
+
+career.php------------- career.jpg	
+
+contact.php------------ no image change
+
+header.php------------- LOGO
+			
+
+footer.php------------- no change
